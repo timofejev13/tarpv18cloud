@@ -10,4 +10,38 @@ body{
     width: 800px;
     border:2px solid var(--light-color);
     margin:0 auto;
+    font-family: 'Cinzel', serif;
+    color:var(--light-color);
+    font-size:1.5rem;
+}
+h1{
+    position: absolute;
+    display: inline-block;
+    margin: 0%;
+    bottom: 23%;
+    left:35%;
+}
+.cloud{
+    position: absolute;
+}
+.mountain{
+    position: absolute;
+    margin: 0%;
+    bottom: 33%;
+    left:34%;
+}
+.cloud1{
+    margin: 0%;
+    bottom: 73%;
+    left:35%;
+}
+.cloud2{
+    margin: 0%;
+    bottom: 83%;
+    left:55%;
+}
+.cloud3{
+    margin: 0%;
+    bottom: 93%;
+    left:40%;
 }
